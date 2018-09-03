@@ -1,9 +1,6 @@
 # RETO 2.P06: Dibuja y anima a lo grande
 Copia más abajo tus programas, cada uno en su parte del reto.
 
-* Cada fotograma de animación debe durar 0.1s (10 fotogramas por segundo)
-* Limitación: Sólo usar instrucciones siguientes: `3E`, `32`, `21`, `22`, `18`, `76`, `C3`
-
 # PROGRAMAS
 
 ## Actividad 1: Dibujar un tile de suelo
